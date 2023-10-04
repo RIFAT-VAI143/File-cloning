@@ -1,4 +1,4 @@
-# Encrypt By : ASRAFUL ISLAM HASAN
+# Encrypt By : ASRAFUL ISLAM HASA
 # Encrypt : Py3
 # Github : https://github.com/KgHasan
 
