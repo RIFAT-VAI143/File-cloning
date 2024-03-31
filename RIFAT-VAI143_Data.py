@@ -1,4 +1,4 @@
-#TRY TO DECODE_😹#
+#TRY TO DECODE_#
 #It's Your Father Rifat#
 #GITHUB: RIFAT-VAI143 #
 
